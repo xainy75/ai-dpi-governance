@@ -1,11 +1,16 @@
 # AI for Digital Public Infrastructure & Governance (AI-DPI)
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-ai--dpi--governance.vercel.app-14B8A6.svg?style=for-the-badge&logo=vercel)](https://ai-dpi-governance.vercel.app)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Vite](https://img.shields.io/badge/Vite-5.4.11-646CFF.svg)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19.0-61DAFB.svg)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38BDF8.svg)](https://tailwindcss.com/)
 
+> 🌐 **Live Website**: [https://ai-dpi-governance.vercel.app](https://ai-dpi-governance.vercel.app)
+
 A modern, trustworthy, content-rich web application and architectural reference model for **"AI for Digital Public Infrastructure & Governance"**. This platform showcases how sovereign Artificial Intelligence layers onto foundational Digital Public Infrastructure (DPI) stacks—digital identity, instant payment rails, and consent-based data exchange—to deliver fraud-resistant, inclusive public services across emerging economies like Pakistan.
+
 
 ---
 

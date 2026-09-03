@@ -27,9 +27,10 @@ export default function Footer() {
             </p>
 
             <div className="flex items-center gap-3 pt-2">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub Repository" className="w-8 h-8 rounded-lg bg-slate-900 border border-slate-800 flex items-center justify-center text-slate-400 hover:text-teal-300 hover:border-teal-500/40 transition-colors">
+              <a href="https://github.com/xainy75/ai-dpi-governance" target="_blank" rel="noopener noreferrer" aria-label="GitHub Repository" className="w-8 h-8 rounded-lg bg-slate-900 border border-slate-800 flex items-center justify-center text-slate-400 hover:text-teal-300 hover:border-teal-500/40 transition-colors">
                 <Code2 className="w-4 h-4" />
               </a>
+
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Community Network" className="w-8 h-8 rounded-lg bg-slate-900 border border-slate-800 flex items-center justify-center text-slate-400 hover:text-teal-300 hover:border-teal-500/40 transition-colors">
                 <Share2 className="w-4 h-4" />
               </a>
